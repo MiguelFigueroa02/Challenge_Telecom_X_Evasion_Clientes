@@ -4,6 +4,15 @@
 
 # 📊 Análisis de Evasión de Clientes (Churn) en Telecomunicaciones 📉
 
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Cloud-yellow?logo=googlecolab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github&logoColor=white)
+
+</div>
+
 Este proyecto contiene un análisis detallado sobre los factores que contribuyen a la evasión de clientes (**Churn**) a partir de la base de datos de la empresa Telecom X. El objetivo fue identificar patrones y características de los clientes que cancelan sus servicios para identificar cuáles son los factores que influyen de mayor manera en la cancelación.
 
 ---
