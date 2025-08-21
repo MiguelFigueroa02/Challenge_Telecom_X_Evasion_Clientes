@@ -2,7 +2,7 @@
   <img width="492" height="328" alt="f9eaca2e-9e92-4a5e-ae67-bb0f28157377" src="https://github.com/user-attachments/assets/a9111d35-3279-4a26-a7d3-6f811ec54cc4" />
 </div>
 
-# 📊 Análisis de Evasión de Clientes (Churn) en Telecomunicaciones 📉
+# 📊 Análisis de Evasión de Clientes 📉
 
 <div align="center">
   
